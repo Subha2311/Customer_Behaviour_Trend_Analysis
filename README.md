@@ -4,6 +4,7 @@ Three-tool pipeline: SQL segmentation + Python EDA + Power BI dashboard — unco
 
 
 Overview
+
 Analyzes 3,900+ customer records across demographics, categories, seasons, and payment methods to drive targeted marketing and inventory decisions.
 
 💡 Key Insights
